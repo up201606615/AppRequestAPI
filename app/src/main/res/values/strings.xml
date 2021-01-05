@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Request API</string>
+    <string name="check_slots">Check Slots</string>
+    <string name="get_prices">Get Prices</string>
+    <string name="fast_available">Fast Available</string>
+    <string name="green_available">Green Available</string>
+    <string name="check_connection">Check Connection</string>
+</resources>
